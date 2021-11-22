@@ -1,0 +1,16 @@
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.AssemblyInfoInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.AssemblyInfo.cs
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.exe
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.deps.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.runtimeconfig.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.runtimeconfig.dev.json
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\ref\Ejercicio11.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\bin\Debug\net5.0\Ejercicio11.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\ref\Ejercicio11.dll
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.pdb
+C:\Users\CUBICULO00002\Desktop\VISUAL\Programacion en C#\Ejercicio11\obj\Debug\net5.0\Ejercicio11.genruntimeconfig.cache
